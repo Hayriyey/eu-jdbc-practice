@@ -8,7 +8,7 @@ import com.google.gson.annotations.SerializedName;
 public class Item {
 
     @SerializedName("region_id")
-    @Expose()
+    @Expose
     private Integer regionId;
     @SerializedName("region_name")
     @Expose
