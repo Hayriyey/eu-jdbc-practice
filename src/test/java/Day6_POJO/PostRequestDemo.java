@@ -117,7 +117,7 @@ public class PostRequestDemo {
         //Optional homeworks
         //Homework-1
         //1-Create csv file from mackaroo website, which includes name,gender,phone
-        //2-Download csv file
+        //2-Download excel file
         //3- using testng data provider and apache poi create data driven posting from spartan
 
 
